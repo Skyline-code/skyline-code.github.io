@@ -1,0 +1,91 @@
+{
+    "code": 0,
+    "data": {
+        "voices": [            
+            {
+                "icon": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2036/voices/icon/ru.png",
+                "listen": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2036/voices/listen/eyu.mp3",
+                "name": {
+                    "default": "Pусский"
+                },
+                "desc": {},
+                "download": "https://ksyru0-eco.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2036/voices/package/eyu.tar.gz",
+                "size": 2679353,
+                "id": "RU",
+                "md5sum": "39ec65a65a4cda8c3702448eb7658c79"
+            },
+            {
+                "icon": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim.jpg",
+                "listen": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim.mp3",
+                "name": {
+                    "default": "Максим"
+                },
+                "desc": {},
+                "download": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim.tar.gz",
+                "size": 3488329,
+                "id": "RA",
+                "md5sum": "987abbcf0737e7a9ad08946b61b1836b"
+            },
+            {
+                "icon": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/warcraft2peon.jpg",
+                "listen": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/warcraft2peon.mp3",
+                "name": {
+                    "default": "WarCraft 2 Peon"
+                },
+                "desc": {},
+                "download": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/warcraft2peon.tar.gz",
+                "size": 2931259,
+                "id": "RB",
+                "md5sum": "c3fc7db23e181eb1cc4e481f8ca80083"
+            },
+            {
+                "icon": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/kuzya.jpg",
+                "listen": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/kuzya.mp3",
+                "name": {
+                    "default": "Кузя"
+                },
+                "desc": {},
+                "download": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/kuzya.tar.gz",
+                "size": 3781996,
+                "id": "RC",
+                "md5sum": "b8eb816a841235f0202a981192e37f02"
+            },
+            {
+                "icon": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim_mat.jpg",
+                "listen": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim_mat.mp3",
+                "name": {
+                    "default": "Максим с матом"
+                },
+                "desc": {},
+                "download": "https://s1yder.ru/xiaomi/vacuum/dreame/voices/maksim_mat.tar.gz",
+                "size": 2729036,
+                "id": "RD",
+                "md5sum": "65de85168e25a60e6b9a9ce2ea35545a"
+            },
+			{
+				"icon": "https://skyline-code.github.io/kozhaniy.jpeg",
+                "listen": "https://skyline-code.github.io/kozhaniymat.mp3",
+                "name": {
+                    "default": "Кожаные у*** с матом!"
+                },
+                "desc": {},
+                "download": "https://skyline-code.github.io/kozhaniy.tar.gz",
+                "size": 5869342,
+                "id": "RE",
+                "md5sum": "65e3557fd904d7dd094035deae1d7ab2"
+            },
+            {
+                "icon": "https://borishuypopadesh.github.io/trouver/organizm.png",
+                "listen": "https://borishuypopadesh.github.io/trouver/organizm.mp3",
+                "name": {
+                    "default": "Организм"
+                },
+                "desc": {},
+                "download": "https://borishuypopadesh.github.io/trouver/organizm.tar.gz",
+                "size": 4822451,
+                "id": "RF",
+                "md5sum": "86a1c18db2efe4b8d3fa7db43f8241fb"
+            }
+        ]
+    }
+}
